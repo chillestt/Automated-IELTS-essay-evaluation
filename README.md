@@ -5,6 +5,9 @@
 - **Team Size:** 1 (Leader: Nguyen Minh Chi)
 - **Time:** December 2023 - March 2024
 
+## Demo
+[<img src="https://i.ytimg.com/vi/PDk-nbADeZA/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=PDk-nbADeZA "Now in Android: 55")
+
 ## Description
 This project focuses on leveraging the power of Large Language Models (LLMs) and reinforcement learning techniques for automated evaluation of IELTS Writing Task 2 essays. By fine-tuning LLMs and implementing reinforcement learning algorithms, we aim to develop a robust system capable of accurately assessing the quality of IELTS essays, providing valuable feedback to test takers and educators.
 
